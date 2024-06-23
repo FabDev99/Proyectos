@@ -58,3 +58,6 @@ public class CalculatorModel : PageModel
        
     }
 }
+
+
+

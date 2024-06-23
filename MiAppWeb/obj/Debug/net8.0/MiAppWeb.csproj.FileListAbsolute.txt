@@ -28,3 +28,4 @@ E:\PROGRAMACION\.Net\Proyectos\MiAppWeb\obj\Debug\net8.0\refint\MiAppWeb.dll
 E:\PROGRAMACION\.Net\Proyectos\MiAppWeb\obj\Debug\net8.0\MiAppWeb.pdb
 E:\PROGRAMACION\.Net\Proyectos\MiAppWeb\obj\Debug\net8.0\MiAppWeb.genruntimeconfig.cache
 E:\PROGRAMACION\.Net\Proyectos\MiAppWeb\obj\Debug\net8.0\ref\MiAppWeb.dll
+E:\PROGRAMACION\.Net\Proyectos\MiAppWeb\obj\Debug\net8.0\MiAppWeb.sourcelink.json
