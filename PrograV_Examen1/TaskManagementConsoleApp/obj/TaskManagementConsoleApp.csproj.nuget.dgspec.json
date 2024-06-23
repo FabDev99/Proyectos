@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj": {}
+    "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj": {}
   },
   "projects": {
-    "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj": {
+    "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj",
+        "projectUniqueName": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj",
         "projectName": "TaskManagementConsoleApp",
-        "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj",
+        "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementConsoleApp\\TaskManagementConsoleApp.csproj",
         "packagesPath": "C:\\Users\\Fabian Duarte Mora\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementConsoleApp\\obj\\",
+        "outputPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian Duarte Mora\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj": {
-                "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj"
+              "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj": {
+                "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj": {
+    "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj",
+        "projectUniqueName": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj",
         "projectName": "TaskManagementLibrary",
-        "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj",
+        "projectPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\TaskManagementLibrary.csproj",
         "packagesPath": "C:\\Users\\Fabian Duarte Mora\\.nuget\\packages\\",
-        "outputPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\Examen1\\TaskManagementLibrary\\obj\\",
+        "outputPath": "E:\\PROGRAMACION\\.Net\\Proyectos\\PrograV_Examen1\\TaskManagementLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fabian Duarte Mora\\AppData\\Roaming\\NuGet\\NuGet.Config"
