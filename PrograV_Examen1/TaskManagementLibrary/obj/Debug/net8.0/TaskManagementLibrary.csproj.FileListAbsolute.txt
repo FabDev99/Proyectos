@@ -21,3 +21,15 @@ E:\PROGRAMACION\.Net\Proyectos\Examen1\TaskManagementLibrary\obj\Debug\net8.0\Ta
 E:\PROGRAMACION\.Net\Proyectos\Examen1\TaskManagementLibrary\obj\Debug\net8.0\refint\TaskManagementLibrary.dll
 E:\PROGRAMACION\.Net\Proyectos\Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.pdb
 E:\PROGRAMACION\.Net\Proyectos\Examen1\TaskManagementLibrary\obj\Debug\net8.0\ref\TaskManagementLibrary.dll
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.deps.json
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.dll
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\bin\Debug\net8.0\TaskManagementLibrary.pdb
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfoInputs.cache
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.AssemblyInfo.cs
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.sourcelink.json
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.dll
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\refint\TaskManagementLibrary.dll
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\TaskManagementLibrary.pdb
+E:\PROGRAMACION\.Net\Proyectos\PrograV_Examen1\TaskManagementLibrary\obj\Debug\net8.0\ref\TaskManagementLibrary.dll

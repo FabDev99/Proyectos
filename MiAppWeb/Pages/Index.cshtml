@@ -1,10 +1,41 @@
 ﻿@page
-@model IndexModel
+@model MiAppWebBD.Pages.IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "Empresa Empleados Web App";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h1>Empresa Empleados Web App</h1>
+
+<form method="post">
+    <div>
+        <select asp-for="SelectedEmpresaId" asp-items="Model.Empresas" class="form-control" onchange="this.form.submit()">
+            <option value="">--Seleccione una Empresa--</option>
+        </select>
+    </div>
+
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellido</th>
+                    <th>Fecha Nacimiento</th>
+                    <th>Email</th>
+                    <th>Telefono</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var empleado in Model.Empleados)
+                {
+                    <tr>
+                        <td>@empleado.Nombre</td>
+                        <td>@empleado.Apellido</td>
+                        <td>@empleado.FechaNacimiento.ToShortDateString()</td>
+                        <td>@empleado.Email</td>
+                        <td>@empleado.Telefono</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</form>

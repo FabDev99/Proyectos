@@ -1,0 +1,23 @@
+@page
+@model Portafolio.Pages.HabilidadesModel
+@{
+    ViewData["Title"] = "Habilidades";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<h2>Habilidades Técnicas</h2>
+<ul>
+    @foreach (var habilidad in Model.HabilidadesTecnicas)
+    {
+        <li>@habilidad</li>
+    }
+</ul>
+
+<h2>Habilidades Profesionales</h2>
+<ul>
+    @foreach (var habilidad in Model.HabilidadesProfesionales)
+    {
+        <li>@habilidad</li>
+    }
+</ul>

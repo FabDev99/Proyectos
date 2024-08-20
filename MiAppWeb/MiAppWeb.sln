@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.002.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAppWeb", "MiAppWeb.csproj", "{B9EAD400-D56D-4DB5-B66C-78254376ED80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiAppWeb", "MiAppWeb.csproj", "{B8C743EE-A4C6-4EC5-AB7A-4E41A5EF4A00}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B9EAD400-D56D-4DB5-B66C-78254376ED80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B9EAD400-D56D-4DB5-B66C-78254376ED80}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B9EAD400-D56D-4DB5-B66C-78254376ED80}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B9EAD400-D56D-4DB5-B66C-78254376ED80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C743EE-A4C6-4EC5-AB7A-4E41A5EF4A00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C743EE-A4C6-4EC5-AB7A-4E41A5EF4A00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C743EE-A4C6-4EC5-AB7A-4E41A5EF4A00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C743EE-A4C6-4EC5-AB7A-4E41A5EF4A00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {59145B22-6A33-4C28-A5F8-385B6678AB07}
+		SolutionGuid = {E2F25B24-3C6B-4530-A499-DFEC92A3B285}
 	EndGlobalSection
 EndGlobal

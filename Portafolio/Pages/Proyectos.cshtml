@@ -1,0 +1,24 @@
+@page
+@model Portafolio.Pages.ProyectosModel 
+
+<h2>Proyectos</h2>
+
+@if (Model.Repos != null && Model.Repos.Any())
+{
+    <ul>
+    @foreach (var repo in Model.Repos)
+    {
+        <li>
+            <h3>@repo.Name</h3>
+            <p>@repo.Description</p>
+            <p><strong>Lenguaje:</strong> @repo.Language</p>
+            <a href="https://github.com/FabDev99?tab=repositories" target="_blank">Ver en GitHub</a>
+        </li>
+    }
+    </ul>
+   
+}
+else
+{
+    <p>No se encontraron repositorios.</p>
+}
