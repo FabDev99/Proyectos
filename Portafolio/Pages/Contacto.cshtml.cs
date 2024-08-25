@@ -20,15 +20,12 @@ namespace Portafolio.Pages
         {
             if (ModelState.IsValid)
             {
-                // Aquí puedes enviar el mensaje por correo electrónico o guardarlo en una base de datos
-                // Por simplicidad, solo marcaremos el formulario como enviado.
+
 
                 IsSent = true;
 
-                // Puedes añadir lógica para enviar el correo o almacenar el mensaje aquí.
 
-                // Ejemplo de mensaje de éxito:
-                // TempData["SuccessMessage"] = "Gracias por tu mensaje. Nos pondremos en contacto contigo pronto.";
+
             }
             else
             {
